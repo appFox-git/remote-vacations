@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-variant-alternates"
+			],
+			[
+				"thumb",
+				"thumbnail"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"new",
+				"newCircle"
+			],
+			[
+				"rand",
+				"randomPoint"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"to",
+				"todoText"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"colo",
+				"colorDisplay"
+			],
+			[
+				"pic",
+				"pickColor"
+			],
+			[
+				"pc",
+				"pickedColor"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"pci",
+				"pickColor"
+			],
+			[
+				"generate",
+				"generateRandomColors"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"c",
+				"clickedColor"
+			],
+			[
+				"change",
+				"changeColors"
+			],
+			[
+				"message",
+				"messageDisplay"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"p1",
+				"p1Score"
+			],
+			[
+				"bod",
+				"bodyObject"
+			],
+			[
+				"but",
+				"buttonStatus"
+			],
+			[
+				"ideni",
+				"identicalArray"
+			],
+			[
+				"in",
+				"incomingArray"
+			],
+			[
+				"string",
+				"stringGuess"
+			],
+			[
+				"col",
+				"COL"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"male",
+				"male"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title></title>\n</head>\n<body>\n\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 10,
+			"file_write_time": 131650428500000000,
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "pacakge resource",
+		"selected_items":
+		[
+			[
+				"pacakge resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"hello?",
+			"python3 Basic_LAS_Viewer.py",
+			"hello?",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lee/Documents/VBox Share/Python Files/Basic_LAS_Viewer.py",
+		"/Users/lee/Documents/Web Dev/Tribute Page - Owain Glyndwr/Tribute_Owain_Glyndwr2.html",
+		"/Users/lee/Documents/Web Dev/Tribute Page - Owain Glyndwr/Tribute_Owain_Glyndwr.css",
+		"/Users/lee/Documents/Web Dev/Tribute Page - Owain Glyndwr/Tribute_Owain_Glyndwr.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/photoGrid.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/photoGrid.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/ToDoList/index.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Circles/circles.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Circles/circles.html",
+		"/Users/lee/bower_components/angular/index.html",
+		"/Users/lee/bower_components/angular/.bower.json",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/ToDoList/assets/css/ToDoList.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/ToDoList/assets/js/ToDoList.js",
+		"/Users/lee/Downloads/paperjs-v0.11.5/examples/Animated/Space.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo/methods.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo/jQueryEvents.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo/jQueryEffects.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo/jQueryEffects.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo/jQueryExercise1.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo/jQueryExercise1.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo/jQueryDemo.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/objects.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/methods.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/DOM_Selector_Exercise.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ColorChanger.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ColourChanger.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ScoreKeeper.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ScoreKeeper.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ScoreKeeper.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ToDo2.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ToDo2.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ToDo2.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/RGBGuessingGame.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/RGBGuessingGame.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/RGBGuessingGame.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/jQueryDemo.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Arrays.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/ArrayProblems.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/list.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Todo_List.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/FunctionsProblemSet.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/HigherOrderFunctions.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/HigherOrderFunctions.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Annoy.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/annoy.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/forLoops.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Function.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Function.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/forLoops.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Script_Demo.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Script_Demo.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/GuessingGame.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/GuessingGame.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/whileLoops.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/whileLoops.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Java_Script/Conditionals.js",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Script_Demo.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/navbars.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/gallery.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/gallery.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/purrfect.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/index.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/grid.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/basics.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/styles.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/07_ImageBlog1/imageLinks.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/boxModelStyle.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/myBlog.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/myBlog.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/boxModel.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/ticTacToeStyle.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/ticTacToe.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Table Element.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/fonts.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/style.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/aboutMe.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/aboutMe.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/specificity.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/selectors.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/todoList.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/todoList.css",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/DECIMAL - Base 10",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/Pokemon Chart.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/forms.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/inputs.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/FormExercise1.html",
+		"/Users/lee/Documents/Web Developer BootCamp - Udemy - Steele/inputs",
+		"/Users/lee/Documents/Pokemon Chart.html",
+		"/Users/lee/Documents/Table Element.html",
+		"/Users/lee/Documents/firstPage.html",
+		"/Users/lee/Documents/HTML Webpage Assignment.html",
+		"/Users/lee/Documents/Things I've Learned.html",
+		"/Users/lee/Documents/demo.html",
+		"/Users/lee/Documents/demo.tml"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "MountainTravelApp.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
